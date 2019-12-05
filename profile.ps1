@@ -35,10 +35,6 @@ function yl { yarn lint $args }
 function yr { yarn remove $args }
 function ys { yarn serve $args }
 
-# directory
-# ※盛岡用なのでパスは自分用に差し替えが必要
-function tofront { cd C:\Users\nebit\OneDrive\デスクトップ\SBRPAI\front-spa }
-
 # utils
 function py { python $args }
 function ex { explorer $args }
