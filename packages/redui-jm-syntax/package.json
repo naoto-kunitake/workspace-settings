@@ -1,0 +1,49 @@
+{
+  "_from": "https://www.atom.io/api/packages/redui-jm-syntax/versions/1.4.0/tarball",
+  "_id": "redui-jm-syntax@1.4.0",
+  "_inBundle": false,
+  "_integrity": "sha512-C5KCvmxspWNLSq0DCYvv4KrVVU/brx6EwUdIPyow7dk1yYlmsVG9IJybmqSePjbWjayJ+m7wIDGiO+3gH6XD0w==",
+  "_location": "/redui-jm-syntax",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "remote",
+    "raw": "https://www.atom.io/api/packages/redui-jm-syntax/versions/1.4.0/tarball",
+    "rawSpec": "https://www.atom.io/api/packages/redui-jm-syntax/versions/1.4.0/tarball",
+    "saveSpec": "https://www.atom.io/api/packages/redui-jm-syntax/versions/1.4.0/tarball",
+    "fetchSpec": "https://www.atom.io/api/packages/redui-jm-syntax/versions/1.4.0/tarball"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://www.atom.io/api/packages/redui-jm-syntax/versions/1.4.0/tarball",
+  "_shasum": "59d8137eb266a739f3baafaaebfb373179d50925",
+  "_spec": "https://www.atom.io/api/packages/redui-jm-syntax/versions/1.4.0/tarball",
+  "_where": "C:\\Users\\nebit\\AppData\\Local\\Temp\\apm-install-dir-11972-29584-k7ab4b.4k2sn",
+  "author": {
+    "name": "juanmnl"
+  },
+  "bugs": {
+    "url": "https://github.com/juanmnl/redui-jm-theme/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Can you smell that?",
+  "engines": {
+    "atom": ">=0.50.0"
+  },
+  "homepage": "https://github.com/juanmnl/redui-jm-theme",
+  "keywords": [
+    "atom",
+    "syntax",
+    "theme"
+  ],
+  "license": "MIT",
+  "name": "redui-jm-syntax",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/juanmnl/redui-jm-theme.git"
+  },
+  "theme": "syntax",
+  "version": "1.4.0"
+}

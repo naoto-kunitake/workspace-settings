@@ -1,0 +1,42 @@
+{
+  "_from": "https://www.atom.io/api/packages/highlight-column/versions/0.5.4/tarball",
+  "_id": "highlight-column@0.5.4",
+  "_inBundle": false,
+  "_integrity": "sha512-7Qt+gdp9/yA+XfctK6MwiksSiXOc1hoOtbenHR8oA6n+7pkQ2XhnrjqaqRbuhfBe3te0YgWloqLaqQD82vJ3iQ==",
+  "_location": "/highlight-column",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "remote",
+    "raw": "https://www.atom.io/api/packages/highlight-column/versions/0.5.4/tarball",
+    "rawSpec": "https://www.atom.io/api/packages/highlight-column/versions/0.5.4/tarball",
+    "saveSpec": "https://www.atom.io/api/packages/highlight-column/versions/0.5.4/tarball",
+    "fetchSpec": "https://www.atom.io/api/packages/highlight-column/versions/0.5.4/tarball"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://www.atom.io/api/packages/highlight-column/versions/0.5.4/tarball",
+  "_shasum": "5bf566bdaa256bd47ad125e09b9295900aeccd45",
+  "_spec": "https://www.atom.io/api/packages/highlight-column/versions/0.5.4/tarball",
+  "_where": "/private/var/folders/81/lxg98kwn7911xj0k99ytd3f00000gn/T/apm-install-dir-202221-36253-1v34aiz.dynp",
+  "bugs": {
+    "url": "https://github.com/tony612/highlight-column/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {},
+  "deprecated": false,
+  "description": "Highlight column the cursor is at",
+  "engines": {
+    "atom": ">0.151.0"
+  },
+  "homepage": "https://github.com/tony612/highlight-column#readme",
+  "license": "MIT",
+  "main": "./lib/main",
+  "name": "highlight-column",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tony612/highlight-column.git"
+  },
+  "version": "0.5.4"
+}
