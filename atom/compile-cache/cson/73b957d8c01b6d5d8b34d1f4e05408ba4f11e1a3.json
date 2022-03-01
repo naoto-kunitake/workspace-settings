@@ -1,0 +1,1 @@
+{"body":{"ctrl-c":"core:copy","ctrl-v":"core:paste","ctrl-z":"core:undo","ctrl-y":"core:redo","ctlt-s":"core:save"},"atom-workspace atom-text-editor:not([mini])":{"shift-ctrl-D":"editor:duplicate-lines"},"atom-text-editor":{"ctrl-l":"editor:select-line"}}

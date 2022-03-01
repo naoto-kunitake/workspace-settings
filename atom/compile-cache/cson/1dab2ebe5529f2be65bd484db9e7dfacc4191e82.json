@@ -1,0 +1,1 @@
+{"body":{"ctrl-z":"core:undo","ctrl-y":"core:redo"},"atom-workspace atom-text-editor:not([mini])":{"shift-ctrl-D":"editor:duplicate-lines"},"atom-text-editor:not([mini])":{"cmd-e":"emmet:expand-abbreviation"},"atom-text-editor":{"ctrl-l":"editor:select-line","ctrl-e":"editor:move-to-end-of-line"}}

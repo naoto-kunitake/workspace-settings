@@ -1,0 +1,80 @@
+"*":
+  "autocomplete-plus": {}
+  "bracket-matcher": {}
+  core:
+    audioBeep: false
+    automaticallyUpdate: false
+    disabledPackages: [
+      "autocomplete-atom-api"
+      "background-tips"
+      "bookmarks"
+      "exception-reporting"
+      "github"
+      "incompatible-packages"
+      "language-c"
+      "language-clojure"
+      "language-coffee-script"
+      "language-csharp"
+      "language-gfm"
+      "language-git"
+      "language-go"
+      "language-hyperlink"
+      "language-java"
+      "language-make"
+      "language-mustache"
+      "language-objective-c"
+      "language-perl"
+      "language-php"
+      "language-property-list"
+      "language-python"
+      "language-ruby"
+      "language-ruby-on-rails"
+      "language-rust-bundled"
+      "language-shellscript"
+      "language-source"
+      "language-sql"
+      "language-toml"
+      "language-xml"
+      "language-yaml"
+      "metrics"
+      "open-on-github"
+      "wrap-guide"
+      "welcome"
+      "about"
+      "archive-view"
+      "autoflow"
+      "autosave"
+      "dalek"
+      "deprecation-cop"
+      "dev-live-reload"
+      "go-to-line"
+      "keybinding-resolver"
+      "link"
+      "styleguide"
+      "symbols-view"
+      "timecop"
+      "update-package-dependencies"
+    ]
+    openEmptyEditorOnStart: false
+    packagesWithKeymapsDisabled: []
+    telemetryConsent: "no"
+    themes: [
+      "one-dark-ui"
+      "redui-jm-syntax"
+    ]
+  editor:
+    showIndentGuide: true
+    showInvisibles: true
+    zoomFontWhenCtrlScrolling: true
+  "exception-reporting":
+    userId: "c7796ec6-5648-40e4-aa9e-bd6e8780d2fb"
+  "file-icons": {}
+  "highlight-column": {}
+  "highlight-selected": {}
+  minimap:
+    plugins:
+      "highlight-selected": true
+      "highlight-selectedDecorationsZIndex": 0
+      pigments: true
+      pigmentsDecorationsZIndex: 0
+  tabs: {}
