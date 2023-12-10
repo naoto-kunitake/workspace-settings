@@ -3,7 +3,6 @@
   "less.validate": false,
   "scss.validate": false,
   "stylelint.validate": ["css", "scss"],
-  "editor.formatOnSave": true,
   "editor.codeActionsOnSave": {
     "source.fixAll.eslint": true,
     "source.fixAll.stylelint": true
@@ -11,12 +10,10 @@
   "editor.fontSize": 15,
   "workbench.iconTheme": "material-icon-theme",
   "editor.tabSize": 2,
-  "editor.wordWrap": "on",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "prettier.printWidth": 300,
   "editor.renderWhitespace": "all",
   "editor.cursorWidth": 2,
-  "editor.minimap.showSlider": "always",
-  "zenMode.hideLineNumbers": false,
-  "zenMode.hideTabs": false,
   "html.format.wrapLineLength": 0,
   "prettier.singleQuote": true,
   "editor.links": false,
@@ -24,14 +21,11 @@
   "editor.multiCursorModifier": "ctrlCmd",
   "editor.scrollBeyondLastLine": false,
   "editor.smoothScrolling": true,
-  "editor.renderLineHighlight": "none",
-  "workbench.colorTheme": "Ushi",
   "editor.scrollbar.verticalScrollbarSize": 0,
   "editor.scrollbar.vertical": "hidden",
   "problems.showCurrentInStatus": true,
   "clock.dateFormat": "HH:MM:ss",
   "atomKeymap.promptV3Features": true,
-  "editor.formatOnPaste": true,
   "terminal.integrated.cursorBlinking": true,
   "terminal.integrated.cursorWidth": 2,
   "terminal.integrated.fontSize": 15,
@@ -44,27 +38,11 @@
   "material-icon-theme.activeIconPack": "nest",
   "material-icon-theme.saturation": 0.8,
   "material-icon-theme.folders.theme": "none",
-  "editor.minimap.renderCharacters": false,
   "material-icon-theme.hidesExplorerArrows": true,
   "workbench.tree.indent": 12,
   "git.showPushSuccessNotification": true,
-  "git-graph.graph.colours": [
-    "#81c08b",
-    "#ea902f",
-    "#78b0a0",
-    "#d84a4a",
-    "#8fb0a9",
-    "#386e46",
-    "#f5b58c",
-    "#ffd152",
-    "#d9008f",
-    "#a300d9",
-    "#e138e8",
-    "#6f24d6"
-  ],
-  "breadcrumbs.enabled": false,
+  "git-graph.graph.colours": ["#81c08b", "#ea902f", "#78b0a0", "#d84a4a", "#8fb0a9", "#386e46", "#f5b58c", "#ffd152", "#d9008f", "#a300d9", "#e138e8", "#6f24d6"],
   "diffEditor.renderSideBySide": false,
-  "diffEditor.renderIndicators": false,
   "git.closeDiffOnOperation": true,
   "git.confirmSync": false,
   "scm.inputFontSize": 14,
@@ -80,8 +58,64 @@
       }
     }
   },
-  "editor.bracketPairColorization.enabled": false,
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
   "diffEditor.ignoreTrimWhitespace": false,
+  "window.autoDetectHighContrast": false,
+  "workbench.editor.untitled.hint": "hidden",
+  "editor.wordWrap": "on",
+  "breadcrumbs.enabled": false,
+  "[javascript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "diffEditor.renderIndicators": false,
+  "scm.diffDecorationsGutterWidth": 4,
+  "editor.minimap.renderCharacters": false,
+  "editor.minimap.showSlider": "always",
+  "disable-color-correct-rendering": false,
+  "explorer.confirmDragAndDrop": false,
+  "git.enableSmartCommit": true,
+  "explorer.confirmDelete": false,
   "html.format.enable": false,
-  "javascript.format.enable": false
+  "editor.formatOnSave": true,
+  "html.hover.references": false,
+  "css.hover.references": false,
+  "less.hover.references": false,
+  "scss.hover.references": false,
+  "html.hover.documentation": false,
+  "css.hover.documentation": false,
+  "less.hover.documentation": false,
+  "scss.hover.documentation": false,
+  "zenMode.hideLineNumbers": false,
+  "workbench.colorTheme": "Ushi",
+  "editor.renderLineHighlight": "none",
+  "editor.accessibilitySupport": "off",
+  "editor.autoClosingQuotes": "beforeWhitespace",
+  "editor.codeLens": false,
+  "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+  "editor.guides.bracketPairs": true,
+  "editor.guides.bracketPairsHorizontal": false,
+  "vscode-neovim.neovimExecutablePaths.darwin": "/usr/local/bin/nvim",
+  "vscode-neovim.neovimInitVimPaths.darwin": "/Users/ushimaru/.config/nvim/init.vim",
+  "[vue]": {
+    "editor.defaultFormatter": "Vue.volar"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "turboConsoleLog.includeFileNameAndLineNum": false,
+  "turboConsoleLog.insertEnclosingClass": false,
+  "turboConsoleLog.insertEnclosingFunction": false,
+  "turboConsoleLog.delimiterInsideMessage": "",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "[scss]": {
+    "editor.defaultFormatter": "vscode.css-language-features"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  }
 }
