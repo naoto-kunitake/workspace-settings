@@ -1,0 +1,280 @@
+{
+  "devices": [
+    [
+      8257,
+      {
+        "*": {
+          "config": {
+            "acceleration": false,
+            "accelerationRate": 0,
+            "commands": [
+              [
+                1,
+                {
+                  "command": "mouse_rightClick",
+                  "params": {
+                    "label": "",
+                    "modifiers": ""
+                  }
+                }
+              ],
+              [
+                2,
+                {
+                  "command": "mouse_rightClick",
+                  "params": null
+                }
+              ],
+              [
+                4,
+                {
+                  "command": "mouse_middleClick",
+                  "params": null
+                }
+              ],
+              [
+                8,
+                {
+                  "command": "mouse_button4Click",
+                  "params": null
+                }
+              ],
+              [
+                16,
+                {
+                  "command": "mouse_button5Click",
+                  "params": null
+                }
+              ],
+              [
+                1073741824,
+                {
+                  "command": "navigation_scrollLeft",
+                  "params": null
+                }
+              ],
+              [
+                2147483648,
+                {
+                  "command": "navigation_scrollRight",
+                  "params": null
+                }
+              ]
+            ],
+            "customModifiers": "",
+            "customacceleration": false,
+            "customaccelerationRate": 0,
+            "customspeed": 50,
+            "id": 0,
+            "inertialScroll": false,
+            "inertialScrollFactor": 0,
+            "inertialScrollNullSteps": 0,
+            "inertialScrollTimer": 0,
+            "lockedAxisModifiers": "",
+            "scrollInvert": true,
+            "scrollLines": 51,
+            "slowDivider": 0,
+            "slowModifiers": "",
+            "snapModifiers": "",
+            "snippets": [
+              {
+                "content": "",
+                "label": ""
+              },
+              {
+                "content": "",
+                "label": ""
+              },
+              {
+                "content": "",
+                "label": ""
+              },
+              {
+                "content": "",
+                "label": ""
+              },
+              {
+                "content": "",
+                "label": ""
+              },
+              {
+                "content": "",
+                "label": ""
+              },
+              {
+                "content": "",
+                "label": ""
+              },
+              {
+                "content": "",
+                "label": ""
+              },
+              {
+                "content": "",
+                "label": ""
+              },
+              {
+                "content": "",
+                "label": ""
+              }
+            ],
+            "speed": 50
+          },
+          "fileName": "",
+          "name": "*"
+        }
+      }
+    ],
+    [
+      32982,
+      {
+        "*": {
+          "config": {
+            "acceleration": false,
+            "accelerationRate": 0,
+            "commands": [
+              [
+                1,
+                {
+                  "command": "mouse_rightClick",
+                  "params": {
+                    "label": "",
+                    "modifiers": ""
+                  }
+                }
+              ],
+              [
+                2,
+                {
+                  "command": "mouse_leftClick",
+                  "params": {
+                    "label": "",
+                    "modifiers": ""
+                  }
+                }
+              ],
+              [
+                4,
+                {
+                  "command": "browser_back",
+                  "params": {}
+                }
+              ],
+              [
+                5,
+                {
+                  "command": "editing_copy",
+                  "params": {}
+                }
+              ],
+              [
+                8,
+                {
+                  "command": "keyboard_shortcut",
+                  "params": {
+                    "keyCode": 13,
+                    "label": "",
+                    "modifiers": "cmd"
+                  }
+                }
+              ],
+              [
+                10,
+                {
+                  "command": "editing_paste",
+                  "params": {}
+                }
+              ],
+              [
+                16,
+                {
+                  "command": "mouse_button5Click",
+                  "params": null
+                }
+              ],
+              [
+                1073741824,
+                {
+                  "command": "navigation_scrollLeft",
+                  "params": null
+                }
+              ],
+              [
+                2147483648,
+                {
+                  "command": "navigation_scrollRight",
+                  "params": null
+                }
+              ]
+            ],
+            "customModifiers": "",
+            "customacceleration": false,
+            "customaccelerationRate": 0,
+            "customspeed": 50,
+            "id": 0,
+            "inertialScroll": false,
+            "inertialScrollFactor": 0,
+            "inertialScrollNullSteps": 0,
+            "inertialScrollTimer": 0,
+            "lockedAxisModifiers": "cmd",
+            "scrollInvert": true,
+            "scrollLines": 1,
+            "slowDivider": 0,
+            "slowModifiers": "",
+            "snapModifiers": "",
+            "snippets": [
+              {
+                "content": "",
+                "label": ""
+              },
+              {
+                "content": "",
+                "label": ""
+              },
+              {
+                "content": "",
+                "label": ""
+              },
+              {
+                "content": "",
+                "label": ""
+              },
+              {
+                "content": "",
+                "label": ""
+              },
+              {
+                "content": "",
+                "label": ""
+              },
+              {
+                "content": "",
+                "label": ""
+              },
+              {
+                "content": "",
+                "label": ""
+              },
+              {
+                "content": "",
+                "label": ""
+              },
+              {
+                "content": "",
+                "label": ""
+              }
+            ],
+            "speed": 50
+          },
+          "fileName": "",
+          "name": "*"
+        }
+      }
+    ]
+  ],
+  "platform": "darwin",
+  "timestamp": 1702222144,
+  "trayIcon": true,
+  "versionMajor": 2,
+  "versionMinor": 0
+}
