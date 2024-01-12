@@ -1,0 +1,590 @@
+<application>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry encoding="base64">XDxTb21lRmllbGRQYXlsb2FkXD4=</entry>
+        <entry encoding="base64">XDxpbXBvcnRcPg==</entry>
+      </history-search>
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+  <component name="VimJumpsSettings">
+    <project id="$USER_HOME$/crm-customer-fe">
+      <jump line="87" column="5" filename="$USER_HOME$/crm-customer-fe/src/features/customers-edit-page/CustomerEditForm/CustomerEditForm.tsx" />
+      <jump line="102" column="0" filename="$USER_HOME$/crm-customer-fe/src/features/customers-edit-page/CustomerEditForm/CustomerEditForm.tsx" />
+      <jump line="100" column="4" filename="$USER_HOME$/crm-customer-fe/src/features/customers-edit-page/CustomerEditForm/CustomerEditForm.tsx" />
+      <jump line="81" column="51" filename="$USER_HOME$/crm-customer-fe/src/features/customers-edit-page/CustomerEditForm/CustomerEditForm.tsx" />
+      <jump line="77" column="4" filename="$USER_HOME$/crm-customer-fe/src/features/customers-edit-page/CustomerEditForm/CustomerEditForm.tsx" />
+      <jump line="94" column="11" filename="$USER_HOME$/crm-customer-fe/src/features/customers-edit-page/CustomerEditForm/CustomerEditForm.tsx" />
+      <jump line="89" column="6" filename="$USER_HOME$/crm-customer-fe/src/features/customers-edit-page/CustomerEditForm/CustomerEditForm.tsx" />
+      <jump line="127" column="30" filename="$USER_HOME$/crm-customer-fe/src/features/customers-edit-page/CustomerEditForm/CustomerEditForm.tsx" />
+      <jump line="96" column="11" filename="$USER_HOME$/crm-customer-fe/src/features/customers-edit-page/CustomerEditForm/CustomerEditForm.tsx" />
+      <jump line="90" column="7" filename="$USER_HOME$/crm-customer-fe/src/features/customers-edit-page/CustomerEditForm/CustomerEditForm.tsx" />
+      <jump line="97" column="0" filename="$USER_HOME$/crm-customer-fe/src/features/customers-edit-page/CustomerEditForm/CustomerEditForm.tsx" />
+      <jump line="98" column="27" filename="$USER_HOME$/crm-customer-fe/src/features/customers-edit-page/CustomerEditForm/CustomerEditForm.tsx" />
+      <jump line="56" column="0" filename="$USER_HOME$/crm-customer-fe/src/features/customers-edit-page/CustomerEditForm/CustomerEditForm.tsx" />
+      <jump line="65" column="19" filename="$USER_HOME$/crm-customer-fe/src/features/customers-edit-page/CustomerEditForm/CustomerEditForm.tsx" />
+      <jump line="69" column="4" filename="$USER_HOME$/crm-customer-fe/src/features/customers-edit-page/CustomerEditForm/CustomerEditForm.tsx" />
+      <jump line="64" column="30" filename="$USER_HOME$/crm-customer-fe/src/features/customers-edit-page/CustomerEditForm/CustomerEditForm.tsx" />
+      <jump line="67" column="0" filename="$USER_HOME$/crm-customer-fe/src/features/customers-edit-page/CustomerEditForm/CustomerEditForm.tsx" />
+      <jump line="58" column="36" filename="$USER_HOME$/crm-customer-fe/src/features/customers-edit-page/CustomerEditForm/CustomerEditForm.tsx" />
+      <jump line="60" column="67" filename="$USER_HOME$/crm-customer-fe/src/features/customers-edit-page/CustomerEditForm/CustomerEditForm.tsx" />
+      <jump line="52" column="4" filename="$USER_HOME$/crm-customer-fe/src/features/customers-edit-page/CustomerEditForm/CustomerEditForm.tsx" />
+      <jump line="45" column="13" filename="$USER_HOME$/crm-customer-fe/src/features/customers-edit-page/CustomerEditForm/CustomerEditForm.tsx" />
+      <jump line="44" column="103" filename="$USER_HOME$/crm-customer-fe/src/features/customers-edit-page/CustomerEditForm/CustomerEditForm.tsx" />
+      <jump line="86" column="0" filename="$USER_HOME$/crm-customer-fe/src/features/customers-edit-page/CustomerEditForm/CustomerEditForm.tsx" />
+      <jump line="92" column="0" filename="$USER_HOME$/crm-customer-fe/src/features/customers-edit-page/CustomerEditForm/CustomerEditForm.tsx" />
+      <jump line="95" column="11" filename="$USER_HOME$/crm-customer-fe/src/features/customers-edit-page/CustomerEditForm/CustomerEditForm.tsx" />
+      <jump line="88" column="10" filename="$USER_HOME$/crm-customer-fe/src/features/customers-edit-page/CustomerEditForm/CustomerEditForm.tsx" />
+      <jump line="47" column="0" filename="$USER_HOME$/crm-customer-fe/src/features/customers-edit-page/CustomerEditForm/CustomerEditForm.tsx" />
+      <jump line="68" column="24" filename="$USER_HOME$/crm-customer-fe/src/features/customers-edit-page/CustomerEditForm/CustomerEditForm.tsx" />
+      <jump line="49" column="0" filename="$USER_HOME$/crm-customer-fe/src/features/customers-edit-page/CustomerEditForm/CustomerEditForm.tsx" />
+      <jump line="0" column="0" filename="$USER_HOME$/crm-customer-fe/src/features/customers-edit-page/CustomerEditForm/2.tsx" />
+      <jump line="4" column="9" filename="$USER_HOME$/crm-customer-fe/src/features/customers-edit-page/CustomerEditForm/2.tsx" />
+      <jump line="46" column="5" filename="$USER_HOME$/crm-customer-fe/src/features/customers-edit-page/CustomerEditForm/CustomerEditForm.tsx" />
+      <jump line="48" column="4" filename="$USER_HOME$/crm-customer-fe/src/features/customers-edit-page/CustomerEditForm/CustomerEditForm.tsx" />
+      <jump line="42" column="0" filename="$USER_HOME$/crm-customer-fe/src/features/customers-edit-page/CustomerEditForm/CustomerEditForm.tsx" />
+      <jump line="43" column="4" filename="$USER_HOME$/crm-customer-fe/src/features/customers-edit-page/CustomerEditForm/CustomerEditForm.tsx" />
+      <jump line="38" column="4" filename="$USER_HOME$/crm-customer-fe/src/features/customers-edit-page/CustomerEditForm/CustomerEditForm.tsx" />
+      <jump line="62" column="6" filename="$USER_HOME$/crm-customer-fe/src/features/customers-edit-page/CustomerEditForm/CustomerEditForm.tsx" />
+      <jump line="110" column="30" filename="$USER_HOME$/crm-customer-fe/src/features/customers-edit-page/CustomerEditForm/CustomerEditForm.tsx" />
+      <jump line="38" column="16" filename="$USER_HOME$/crm-customer-fe/src/components/RHFTextField/RHFTextField.tsx" />
+      <jump line="42" column="12" filename="$USER_HOME$/crm-customer-fe/src/components/RHFTextField/RHFTextField.tsx" />
+      <jump line="37" column="4" filename="$USER_HOME$/crm-customer-fe/src/features/components-create-page/types/ComponentsPageFieldValues.ts" />
+      <jump line="151" column="33" filename="$USER_HOME$/crm-customer-fe/src/features/customers-edit-page/CustomerEditForm/CustomerEditForm.tsx" />
+      <jump line="160" column="16" filename="$USER_HOME$/crm-customer-fe/src/features/customers-edit-page/CustomerEditForm/CustomerEditForm.tsx" />
+      <jump line="157" column="0" filename="$USER_HOME$/crm-customer-fe/src/features/customers-edit-page/CustomerEditForm/CustomerEditForm.tsx" />
+      <jump line="158" column="30" filename="$USER_HOME$/crm-customer-fe/src/features/customers-edit-page/CustomerEditForm/CustomerEditForm.tsx" />
+      <jump line="163" column="16" filename="$USER_HOME$/crm-customer-fe/src/features/customers-edit-page/CustomerEditForm/CustomerEditForm.tsx" />
+      <jump line="6" column="0" filename="$USER_HOME$/crm-customer-fe/src/components/RHFRadioField/RHFRadioField.tsx" />
+      <jump line="12" column="12" filename="$USER_HOME$/crm-customer-fe/node_modules/react-hook-form/dist/types/validator.d.ts" />
+      <jump line="8" column="20" filename="$USER_HOME$/crm-customer-fe/node_modules/react-hook-form/dist/types/validator.d.ts" />
+      <jump line="2" column="32" filename="$USER_HOME$/crm-customer-fe/src/components/RHFRadioField/RHFRadioField.tsx" />
+      <jump line="59" column="11" filename="$USER_HOME$/crm-customer-fe/src/components/RHFRadioField/RHFRadioField.tsx" />
+      <jump line="3" column="0" filename="$USER_HOME$/crm-customer-fe/src/features/customers-edit-page/CustomerEditForm/CustomerEditForm.tsx" />
+      <jump line="78" column="17" filename="$USER_HOME$/crm-customer-fe/src/components/RHFSelectField/RHFSelectField.tsx" />
+      <jump line="165" column="24" filename="$USER_HOME$/crm-customer-fe/src/features/customers-edit-page/CustomerEditForm/CustomerEditForm.tsx" />
+      <jump line="70" column="0" filename="$USER_HOME$/crm-customer-fe/src/features/customers-edit-page/CustomerEditForm/CustomerEditForm.tsx" />
+      <jump line="161" column="0" filename="$USER_HOME$/crm-customer-fe/src/features/customers-edit-page/CustomerEditForm/CustomerEditForm.tsx" />
+      <jump line="172" column="67" filename="$USER_HOME$/crm-customer-fe/src/features/customers-edit-page/CustomerEditForm/CustomerEditForm.tsx" />
+      <jump line="79" column="17" filename="$USER_HOME$/crm-customer-fe/src/components/RHFRadioField/RHFRadioField.tsx" />
+      <jump line="62" column="10" filename="$USER_HOME$/crm-customer-fe/src/components/RHFRadioField/RHFRadioField.tsx" />
+      <jump line="168" column="33" filename="$USER_HOME$/crm-customer-fe/src/features/customers-edit-page/CustomerEditForm/CustomerEditForm.tsx" />
+      <jump line="187" column="11" filename="$USER_HOME$/crm-customer-fe/src/features/customers-edit-page/CustomerEditForm/CustomerEditForm.tsx" />
+      <jump line="112" column="63" filename="$USER_HOME$/crm-customer-fe/src/features/customers-edit-page/CustomerEditForm/CustomerEditForm.tsx" />
+      <jump line="190" column="19" filename="$USER_HOME$/crm-customer-fe/src/features/customers-edit-page/CustomerEditForm/CustomerEditForm.tsx" />
+      <jump line="108" column="16" filename="$USER_HOME$/crm-customer-fe/src/features/customers-edit-page/CustomerEditForm/CustomerEditForm.tsx" />
+      <jump line="20" column="18" filename="$USER_HOME$/crm-customer-fe/src/features/customers-edit-page/CustomerEditForm/CustomerEditForm.tsx" />
+      <jump line="22" column="2" filename="$USER_HOME$/crm-customer-fe/src/features/customers-edit-page/CustomerEditForm/CustomerEditForm.tsx" />
+      <jump line="174" column="21" filename="$USER_HOME$/crm-customer-fe/src/features/customers-edit-page/CustomerEditForm/CustomerEditForm.tsx" />
+      <jump line="169" column="18" filename="$USER_HOME$/crm-customer-fe/src/features/customers-edit-page/CustomerEditForm/CustomerEditForm.tsx" />
+      <jump line="21" column="33" filename="$USER_HOME$/crm-customer-fe/src/features/customers-edit-page/CustomerEditForm/CustomerEditForm.tsx" />
+      <jump line="36" column="29" filename="$USER_HOME$/crm-customer-fe/src/features/components-create-page/components/ComponentsPageFieldSet/BasicFieldSet.tsx" />
+      <jump line="29" column="18" filename="$USER_HOME$/crm-customer-fe/src/features/components-create-page/components/ComponentsPageFieldSet/BasicFieldSet.tsx" />
+      <jump line="170" column="25" filename="$USER_HOME$/crm-customer-fe/src/features/customers-edit-page/CustomerEditForm/CustomerEditForm.tsx" />
+      <jump line="34" column="0" filename="$USER_HOME$/crm-customer-fe/src/features/components-create-page/components/ComponentsPageFieldSet/BasicFieldSet.tsx" />
+      <jump line="18" column="13" filename="$USER_HOME$/crm-customer-fe/src/lib/componentsPageHelper.ts" />
+      <jump line="178" column="34" filename="$USER_HOME$/crm-customer-fe/src/features/customers-edit-page/CustomerEditForm/CustomerEditForm.tsx" />
+      <jump line="183" column="20" filename="$USER_HOME$/crm-customer-fe/src/features/customers-edit-page/CustomerEditForm/CustomerEditForm.tsx" />
+      <jump line="181" column="17" filename="$USER_HOME$/crm-customer-fe/src/features/customers-edit-page/CustomerEditForm/CustomerEditForm.tsx" />
+      <jump line="180" column="17" filename="$USER_HOME$/crm-customer-fe/src/features/customers-edit-page/CustomerEditForm/CustomerEditForm.tsx" />
+      <jump line="176" column="82" filename="$USER_HOME$/crm-customer-fe/src/features/customers-edit-page/CustomerEditForm/CustomerEditForm.tsx" />
+      <jump line="167" column="26" filename="$USER_HOME$/crm-customer-fe/src/features/customers-edit-page/CustomerEditForm/CustomerEditForm.tsx" />
+      <jump line="179" column="20" filename="$USER_HOME$/crm-customer-fe/src/features/customers-edit-page/CustomerEditForm/CustomerEditForm.tsx" />
+      <jump line="171" column="3" filename="$USER_HOME$/crm-customer-fe/src/features/customers-edit-page/CustomerEditForm/CustomerEditForm.tsx" />
+      <jump line="177" column="40" filename="$USER_HOME$/crm-customer-fe/src/features/customers-edit-page/CustomerEditForm/CustomerEditForm.tsx" />
+      <jump line="182" column="19" filename="$USER_HOME$/crm-customer-fe/src/features/customers-edit-page/CustomerEditForm/CustomerEditForm.tsx" />
+      <jump line="173" column="25" filename="$USER_HOME$/crm-customer-fe/src/features/customers-edit-page/CustomerEditForm/CustomerEditForm.tsx" />
+      <jump line="16" column="0" filename="$USER_HOME$/crm-customer-fe/src/features/customers-edit-page/CustomerEditForm/CustomerEditForm.tsx" />
+      <jump line="19" column="2" filename="$USER_HOME$/crm-customer-fe/src/features/customers-edit-page/CustomerEditForm/CustomerEditForm.tsx" />
+      <jump line="166" column="14" filename="$USER_HOME$/crm-customer-fe/src/features/customers-edit-page/CustomerEditForm/CustomerEditForm.tsx" />
+      <jump line="162" column="84" filename="$USER_HOME$/crm-customer-fe/src/features/customers-edit-page/CustomerEditForm/CustomerEditForm.tsx" />
+      <jump line="106" column="4" filename="$USER_HOME$/crm-customer-fe/src/features/customers-edit-page/CustomerEditForm/CustomerEditForm.tsx" />
+      <jump line="175" column="2" filename="$USER_HOME$/crm-customer-fe/src/features/customers-edit-page/CustomerEditForm/CustomerEditForm.tsx" />
+      <jump line="15" column="0" filename="$USER_HOME$/crm-customer-fe/src/features/customers-edit-page/CustomerEditForm/CustomerEditForm.tsx" />
+      <jump line="93" column="0" filename="$USER_HOME$/crm-customer-fe/src/features/customers-edit-page/CustomerEditForm/CustomerEditForm.tsx" />
+      <jump line="32" column="2" filename="$USER_HOME$/crm-customer-fe/src/components/RHFTextField/RHFTextField.tsx" />
+      <jump line="60" column="19" filename="$USER_HOME$/crm-customer-fe/src/components/RHFRadioField/RHFRadioField.tsx" />
+      <jump line="0" column="7" filename="$USER_HOME$/crm-customer-fe/node_modules/react-hook-form/dist/types/validator.d.ts" />
+      <jump line="59" column="4" filename="$USER_HOME$/crm-customer-fe/src/components/RHFSelectField/RHFSelectField.tsx" />
+      <jump line="44" column="5" filename="$USER_HOME$/crm-customer-fe/src/features/signin-page/SignInForm/SignInForm.tsx" />
+      <jump line="75" column="17" filename="$USER_HOME$/crm-customer-fe/src/components/RHFCheckField/RHFCheckField.tsx" />
+      <jump line="38" column="22" filename="$USER_HOME$/crm-customer-fe/src/features/components-create-page/components/ComponentsPageFieldSet/BasicFieldSet.tsx" />
+    </project>
+    <project id="no project">
+      <jump line="5" column="0" filename="/" />
+    </project>
+    <project id="$USER_HOME$/crm-customer-bff">
+      <jump line="24" column="13" filename="$USER_HOME$/crm-customer-bff/src/services/customers.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/crm-customer-bff/src/services/customerEdit.ts" />
+      <jump line="2" column="28" filename="$USER_HOME$/crm-customer-bff/src/services/index.ts" />
+      <jump line="29" column="17" filename="$USER_HOME$/crm-customer-bff/src/services/customerEdit.ts" />
+      <jump line="129" column="12" filename="$USER_HOME$/crm-customer-bff/src/types/index.ts" />
+      <jump line="0" column="7" filename="$USER_HOME$/crm-customer-bff/src/routes/index.ts" />
+      <jump line="2" column="49" filename="$USER_HOME$/crm-customer-bff/src/routes/customers.ts" />
+      <jump line="0" column="7" filename="$USER_HOME$/crm-customer-bff/src/services/customers.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/crm-customer-bff/src/routes/members.ts" />
+      <jump line="57" column="21" filename="$USER_HOME$/crm-customer-bff/src/types/index.ts" />
+      <jump line="114" column="18" filename="$USER_HOME$/crm-customer-bff/src/types/index.ts" />
+      <jump line="28" column="0" filename="$USER_HOME$/crm-customer-bff/src/services/customerEdit.ts" />
+      <jump line="6" column="0" filename="$USER_HOME$/crm-customer-bff/src/services/customerEdit.ts" />
+      <jump line="25" column="2" filename="$USER_HOME$/crm-customer-bff/src/services/customerEdit.ts" />
+      <jump line="16" column="90" filename="$USER_HOME$/crm-customer-bff/src/services/customerEdit.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/.ideavimrc" />
+      <jump line="42" column="36" filename="$USER_HOME$/.ideavimrc" />
+      <jump line="17" column="21" filename="$USER_HOME$/.ideavimrc" />
+      <jump line="12" column="13" filename="$USER_HOME$/crm-customer-bff/src/services/customerDetails.ts" />
+      <jump line="29" column="16" filename="$USER_HOME$/.ideavimrc" />
+      <jump line="22" column="26" filename="$USER_HOME$/.ideavimrc" />
+      <jump line="18" column="0" filename="$USER_HOME$/.ideavimrc" />
+      <jump line="20" column="39" filename="$USER_HOME$/.ideavimrc" />
+      <jump line="36" column="18" filename="$USER_HOME$/.ideavimrc" />
+      <jump line="31" column="23" filename="$USER_HOME$/.ideavimrc" />
+      <jump line="7" column="83" filename="$USER_HOME$/crm-customer-bff/src/services/customerDetails.ts" />
+      <jump line="26" column="19" filename="$USER_HOME$/.ideavimrc" />
+      <jump line="28" column="19" filename="$USER_HOME$/.ideavimrc" />
+      <jump line="21" column="0" filename="$USER_HOME$/.ideavimrc" />
+      <jump line="35" column="25" filename="$USER_HOME$/.ideavimrc" />
+      <jump line="32" column="27" filename="$USER_HOME$/.ideavimrc" />
+      <jump line="27" column="0" filename="$USER_HOME$/.ideavimrc" />
+      <jump line="20" column="4" filename="$USER_HOME$/crm-customer-bff/src/services/customerEdit.ts" />
+      <jump line="33" column="42" filename="$USER_HOME$/crm-customer-bff/src/services/customerEdit.ts" />
+      <jump line="24" column="28" filename="$USER_HOME$/crm-customer-bff/src/services/customerEdit.ts" />
+      <jump line="48" column="34" filename="$USER_HOME$/crm-customer-bff/src/types/index.ts" />
+      <jump line="35" column="5" filename="$USER_HOME$/crm-customer-bff/src/types/index.ts" />
+      <jump line="38" column="52" filename="$USER_HOME$/crm-customer-bff/src/types/index.ts" />
+      <jump line="65" column="4" filename="$USER_HOME$/crm-customer-bff/src/services/customerEdit.ts" />
+      <jump line="54" column="5" filename="$USER_HOME$/crm-customer-bff/src/services/customerEdit.ts" />
+      <jump line="17" column="0" filename="$USER_HOME$/crm-customer-bff/src/services/customerEdit.ts" />
+      <jump line="55" column="0" filename="$USER_HOME$/crm-customer-bff/src/services/customerEdit.ts" />
+      <jump line="57" column="35" filename="$USER_HOME$/crm-customer-bff/src/services/customerEdit.ts" />
+      <jump line="48" column="34" filename="$USER_HOME$/crm-customer-bff/src/services/customerEdit.ts" />
+      <jump line="58" column="3" filename="$USER_HOME$/crm-customer-bff/src/services/customerEdit.ts" />
+      <jump line="43" column="8" filename="$USER_HOME$/crm-customer-bff/src/services/customerEdit.ts" />
+      <jump line="67" column="23" filename="$USER_HOME$/crm-customer-bff/src/services/customerEdit.ts" />
+      <jump line="14" column="0" filename="$USER_HOME$/crm-customer-bff/src/services/customerEdit.ts" />
+      <jump line="21" column="2" filename="$USER_HOME$/crm-customer-bff/src/services/customerEdit.ts" />
+      <jump line="59" column="34" filename="$USER_HOME$/crm-customer-bff/src/services/customerEdit.ts" />
+      <jump line="60" column="20" filename="$USER_HOME$/crm-customer-bff/src/services/customerEdit.ts" />
+      <jump line="69" column="23" filename="$USER_HOME$/crm-customer-bff/src/services/customerEdit.ts" />
+      <jump line="63" column="102" filename="$USER_HOME$/crm-customer-bff/src/services/customerEdit.ts" />
+      <jump line="72" column="0" filename="$USER_HOME$/crm-customer-bff/src/services/customerEdit.ts" />
+      <jump line="66" column="34" filename="$USER_HOME$/crm-customer-bff/src/services/customerEdit.ts" />
+      <jump line="61" column="45" filename="$USER_HOME$/crm-customer-bff/src/services/customerEdit.ts" />
+      <jump line="15" column="36" filename="$USER_HOME$/crm-customer-bff/src/services/customerEdit.ts" />
+      <jump line="32" column="41" filename="$USER_HOME$/crm-customer-bff/src/services/customerEdit.ts" />
+      <jump line="11" column="141" filename="$USER_HOME$/crm-customer-bff/src/services/customerEdit.ts" />
+      <jump line="13" column="15" filename="$USER_HOME$/crm-customer-bff/src/services/customerEdit.ts" />
+      <jump line="27" column="6" filename="$USER_HOME$/crm-customer-bff/src/services/customerEdit.ts" />
+      <jump line="49" column="13" filename="$USER_HOME$/crm-customer-bff/src/services/customerEdit.ts" />
+      <jump line="9" column="81" filename="$USER_HOME$/crm-customer-bff/src/services/customerEdit.ts" />
+      <jump line="39" column="64" filename="$USER_HOME$/crm-customer-bff/src/services/customerEdit.ts" />
+      <jump line="46" column="3" filename="$USER_HOME$/crm-customer-bff/src/services/customerEdit.ts" />
+      <jump line="40" column="80" filename="$USER_HOME$/crm-customer-bff/src/services/customerEdit.ts" />
+      <jump line="41" column="5" filename="$USER_HOME$/crm-customer-bff/src/services/customerEdit.ts" />
+      <jump line="44" column="0" filename="$USER_HOME$/crm-customer-bff/src/services/customerEdit.ts" />
+      <jump line="5" column="39" filename="$USER_HOME$/crm-customer-bff/src/services/customerEdit.ts" />
+      <jump line="7" column="67" filename="$USER_HOME$/crm-customer-bff/src/services/customerEdit.ts" />
+      <jump line="45" column="9" filename="$USER_HOME$/crm-customer-bff/src/services/customerEdit.ts" />
+      <jump line="8" column="28" filename="$USER_HOME$/crm-customer-bff/src/services/customerEdit.ts" />
+      <jump line="51" column="0" filename="$USER_HOME$/crm-customer-bff/src/services/customerEdit.ts" />
+      <jump line="34" column="27" filename="$USER_HOME$/crm-customer-bff/src/services/customerEdit.ts" />
+      <jump line="53" column="3" filename="$USER_HOME$/crm-customer-bff/src/services/customerEdit.ts" />
+      <jump line="121" column="0" filename="$USER_HOME$/crm-customer-bff/src/types/index.ts" />
+      <jump line="12" column="30" filename="$USER_HOME$/crm-customer-bff/src/services/customerEdit.ts" />
+      <jump line="122" column="12" filename="$USER_HOME$/crm-customer-bff/src/types/index.ts" />
+      <jump line="11" column="16" filename="$USER_HOME$/crm-customer-bff/src/services/customerDetails.ts" />
+      <jump line="120" column="33" filename="$USER_HOME$/crm-customer-bff/src/types/index.ts" />
+      <jump line="80" column="33" filename="$USER_HOME$/crm-customer-bff/src/types/index.ts" />
+      <jump line="3" column="11" filename="$USER_HOME$/crm-customer-bff/src/services/customerEdit.ts" />
+      <jump line="50" column="101" filename="$USER_HOME$/crm-customer-bff/src/services/customerEdit.ts" />
+      <jump line="30" column="5" filename="$USER_HOME$/crm-customer-bff/src/services/customerEdit.ts" />
+      <jump line="31" column="0" filename="$USER_HOME$/crm-customer-bff/src/services/customerEdit.ts" />
+      <jump line="35" column="5" filename="$USER_HOME$/crm-customer-bff/src/services/customerEdit.ts" />
+      <jump line="38" column="16" filename="$USER_HOME$/crm-customer-bff/src/services/customerEdit.ts" />
+      <jump line="56" column="3" filename="$USER_HOME$/crm-customer-bff/src/services/customerEdit.ts" />
+      <jump line="37" column="2" filename="$USER_HOME$/crm-customer-bff/src/services/customerEdit.ts" />
+      <jump line="26" column="0" filename="$USER_HOME$/crm-customer-bff/src/services/customerEdit.ts" />
+      <jump line="18" column="59" filename="$USER_HOME$/crm-customer-bff/src/services/customerEdit.ts" />
+      <jump line="19" column="43" filename="$USER_HOME$/crm-customer-bff/src/services/customerEdit.ts" />
+      <jump line="10" column="30" filename="$USER_HOME$/crm-customer-bff/src/services/customerEdit.ts" />
+      <jump line="47" column="8" filename="$USER_HOME$/crm-customer-bff/src/services/customerEdit.ts" />
+      <jump line="23" column="0" filename="$USER_HOME$/crm-customer-bff/src/services/customerEdit.ts" />
+      <jump line="17" column="15" filename="$USER_HOME$/crm-customer-bff/src/lib/typeGuards.ts" />
+      <jump line="18" column="0" filename="$USER_HOME$/crm-customer-bff/src/lib/typeGuards.ts" />
+      <jump line="22" column="16" filename="$USER_HOME$/crm-customer-bff/src/services/customerEdit.ts" />
+      <jump line="36" column="0" filename="$USER_HOME$/crm-customer-bff/src/services/customerEdit.ts" />
+      <jump line="52" column="22" filename="$USER_HOME$/crm-customer-bff/src/services/customerEdit.ts" />
+    </project>
+    <project id="$USER_HOME$/repos/crm-customer-fe">
+      <jump line="21" column="4" filename="$USER_HOME$/repos/crm-customer-fe/src/ui/DetailItemValue/DetailItemValue.tsx" />
+      <jump line="17" column="34" filename="$USER_HOME$/repos/crm-customer-fe/src/ui/DetailItemValue/DetailItemValue.tsx" />
+      <jump line="28" column="0" filename="$USER_HOME$/repos/crm-customer-fe/src/ui/DetailItemKey/DetailItemKey.tsx" />
+      <jump line="26" column="19" filename="$USER_HOME$/repos/crm-customer-fe/src/ui/DetailItem/DetailItem.tsx" />
+      <jump line="34" column="0" filename="$USER_HOME$/repos/crm-customer-fe/src/ui/DetailItem/DetailItem.tsx" />
+      <jump line="0" column="7" filename="$USER_HOME$/repos/crm-customer-fe/src/ui/DetailItem/DetailItem.tsx" />
+      <jump line="30" column="0" filename="$USER_HOME$/repos/crm-customer-fe/src/ui/DetailItem/DetailItem.tsx" />
+      <jump line="33" column="1" filename="$USER_HOME$/repos/crm-customer-fe/src/ui/DetailItemKey/DetailItemKey.tsx" />
+      <jump line="19" column="6" filename="$USER_HOME$/repos/crm-customer-fe/src/ui/DetailItem/DetailItem.tsx" />
+      <jump line="30" column="48" filename="$USER_HOME$/repos/crm-customer-fe/src/ui/DetailItemKey/DetailItemKey.tsx" />
+      <jump line="22" column="4" filename="$USER_HOME$/repos/crm-customer-fe/src/ui/DetailItemKey/DetailItemKey.tsx" />
+      <jump line="10" column="0" filename="$USER_HOME$/repos/crm-customer-fe/src/ui/DetailItemValue/DetailItemValue.tsx" />
+      <jump line="29" column="3" filename="$USER_HOME$/repos/crm-customer-fe/src/ui/DetailItem/DetailItem.tsx" />
+      <jump line="21" column="20" filename="$USER_HOME$/repos/crm-customer-fe/src/ui/DetailItem/DetailItem.tsx" />
+      <jump line="20" column="6" filename="$USER_HOME$/repos/crm-customer-fe/src/ui/DetailItem/DetailItem.tsx" />
+      <jump line="7" column="18" filename="$USER_HOME$/repos/crm-customer-fe/src/ui/DetailItem/DetailItem.tsx" />
+      <jump line="16" column="28" filename="$USER_HOME$/repos/crm-customer-fe/src/ui/DetailItem/DetailItem.tsx" />
+      <jump line="12" column="12" filename="$USER_HOME$/repos/crm-customer-fe/src/ui/DetailItemValue/DetailItemValue.css.ts" />
+      <jump line="13" column="3" filename="$USER_HOME$/repos/crm-customer-fe/src/ui/DetailItemKey/DetailItemKey.css.ts" />
+      <jump line="23" column="21" filename="$USER_HOME$/repos/crm-customer-fe/src/ui/DetailItem/DetailItem.css.ts" />
+      <jump line="61" column="0" filename="$USER_HOME$/repos/crm-customer-fe/src/ui/DetailItem/DetailItem.css.ts" />
+      <jump line="56" column="4" filename="$USER_HOME$/repos/crm-customer-fe/src/ui/DetailItem/DetailItem.css.ts" />
+      <jump line="73" column="6" filename="$USER_HOME$/repos/crm-customer-fe/src/ui/DetailItem/DetailItem.css.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/repos/crm-customer-fe/src/ui/DetailItem/DetailItem.css.ts" />
+      <jump line="18" column="3" filename="$USER_HOME$/repos/crm-customer-fe/src/ui/DetailItem/DetailItem.css.ts" />
+      <jump line="32" column="23" filename="$USER_HOME$/repos/crm-customer-fe/src/ui/DetailItem/DetailItem.css.ts" />
+      <jump line="20" column="5" filename="$USER_HOME$/repos/crm-customer-fe/src/ui/DetailItem/DetailItem.css.ts" />
+      <jump line="26" column="3" filename="$USER_HOME$/repos/crm-customer-fe/src/ui/DetailItem/DetailItem.css.ts" />
+      <jump line="24" column="8" filename="$USER_HOME$/repos/crm-customer-fe/src/ui/DetailItem/DetailItem.tsx" />
+      <jump line="4" column="36" filename="$USER_HOME$/repos/crm-customer-fe/src/ui/DetailItem/DetailItem.tsx" />
+      <jump line="3" column="0" filename="$USER_HOME$/repos/crm-customer-fe/src/ui/DetailItem/DetailItem.tsx" />
+      <jump line="27" column="14" filename="$USER_HOME$/repos/crm-customer-fe/src/ui/DetailItem/DetailItem.tsx" />
+      <jump line="29" column="13" filename="$USER_HOME$/repos/crm-customer-fe/src/ui/DetailItem/DetailItem.css.ts" />
+      <jump line="33" column="0" filename="$USER_HOME$/repos/crm-customer-fe/src/ui/DetailItem/DetailItem.css.ts" />
+      <jump line="19" column="32" filename="$USER_HOME$/repos/crm-customer-fe/src/ui/DetailItem/DetailItem.css.ts" />
+      <jump line="21" column="20" filename="$USER_HOME$/repos/crm-customer-fe/src/ui/DetailItem/DetailItem.css.ts" />
+      <jump line="22" column="21" filename="$USER_HOME$/repos/crm-customer-fe/src/ui/DetailItem/DetailItem.css.ts" />
+      <jump line="24" column="9" filename="$USER_HOME$/repos/crm-customer-fe/src/ui/DetailItem/DetailItem.css.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/repos/crm-customer-fe/.gitignore" />
+      <jump line="20" column="13" filename="$USER_HOME$/repos/crm-customer-fe/.gitignore" />
+      <jump line="25" column="6" filename="$USER_HOME$/repos/crm-customer-fe/.gitignore" />
+      <jump line="22" column="13" filename="$USER_HOME$/repos/crm-customer-fe/.gitignore" />
+      <jump line="28" column="0" filename="$USER_HOME$/repos/crm-customer-fe/.gitignore" />
+      <jump line="19" column="6" filename="$USER_HOME$/repos/crm-customer-fe/.gitignore" />
+      <jump line="23" column="0" filename="$USER_HOME$/repos/crm-customer-fe/src/ui/DetailItemKey/DetailItemKey.css.ts" />
+      <jump line="17" column="2" filename="$USER_HOME$/repos/crm-customer-fe/src/ui/DetailItemKey/DetailItemKey.css.ts" />
+      <jump line="22" column="0" filename="$USER_HOME$/repos/crm-customer-fe/src/ui/DetailItemValue/DetailItemValue.css.ts" />
+      <jump line="7" column="26" filename="$USER_HOME$/repos/crm-customer-fe/src/ui/DetailItem/DetailItem.css.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/repos/crm-customer-fe/src/ui/DetailItem/index.ts" />
+      <jump line="29" column="63" filename="$USER_HOME$/repos/crm-customer-fe/src/ui/DetailItemKey/DetailItemKey.tsx" />
+      <jump line="5" column="13" filename="$USER_HOME$/repos/crm-customer-fe/src/ui/DetailItem/DetailItem.tsx" />
+      <jump line="22" column="4" filename="$USER_HOME$/repos/crm-customer-fe/src/ui/DetailItemValue/DetailItemValue.tsx" />
+      <jump line="9" column="12" filename="$USER_HOME$/repos/crm-customer-fe/src/app/(authenticated)/customers/[id]/page.tsx" />
+      <jump line="12" column="22" filename="$USER_HOME$/repos/crm-customer-fe/src/features/customers-id-page/Composed/Composed.tsx" />
+      <jump line="25" column="15" filename="$USER_HOME$/repos/crm-customer-fe/src/features/customers-id-page/Composed/Composed.tsx" />
+      <jump line="8" column="16" filename="$USER_HOME$/repos/crm-customer-fe/src/features/customers-id-page/CustomerContainer/CustomerContainer.tsx" />
+      <jump line="54" column="15" filename="$USER_HOME$/repos/crm-customer-fe/src/features/customers-id-page/CustomerContainer/CustomerContainer.tsx" />
+      <jump line="18" column="14" filename="$USER_HOME$/repos/crm-customer-fe/src/features/customers-id-page/UserProfileInfo/UserProfileInfo.tsx" />
+      <jump line="9" column="29" filename="$USER_HOME$/repos/crm-customer-fe/src/features/customers-id-page/UserProfileInfo/UserProfileInfo.tsx" />
+      <jump line="7" column="84" filename="$USER_HOME$/repos/crm-customer-fe/src/features/customers-id-page/UserProfileInfo/UserProfileInfo.tsx" />
+      <jump line="11" column="0" filename="$USER_HOME$/repos/crm-customer-fe/src/features/customers-id-page/UserProfileInfo/UserProfileInfo.tsx" />
+      <jump line="19" column="0" filename="$USER_HOME$/repos/crm-customer-fe/src/features/customers-id-page/UserProfileInfo/UserProfileInfo.tsx" />
+      <jump line="3" column="16" filename="$USER_HOME$/repos/crm-customer-fe/src/features/customers-id-page/ReservedProfileList/ReservedProfileList.tsx" />
+      <jump line="0" column="7" filename="$USER_HOME$/repos/crm-customer-fe/src/features/customers-id-page/ReservedProfileList/ReservedProfileList.tsx" />
+      <jump line="7" column="34" filename="$USER_HOME$/repos/crm-customer-fe/src/features/customers-id-page/ReservedProfileList/ReservedProfileList.tsx" />
+      <jump line="15" column="28" filename="$USER_HOME$/repos/crm-customer-fe/src/features/customers-id-page/ReservedProfileList/ReservedProfileList.tsx" />
+      <jump line="21" column="19" filename="$USER_HOME$/repos/crm-customer-fe/src/features/customers-id-page/ReservedProfileList/ReservedProfileList.tsx" />
+      <jump line="24" column="9" filename="$USER_HOME$/repos/crm-customer-fe/src/features/customers-id-page/ReservedProfileList/ReservedProfileList.tsx" />
+      <jump line="27" column="23" filename="$USER_HOME$/repos/crm-customer-fe/src/features/customers-id-page/ReservedProfileList/ReservedProfileList.tsx" />
+      <jump line="7" column="10" filename="$USER_HOME$/repos/crm-customer-fe/src/features/customers-id-page/DetailDefaultField/DetailDefaultField.tsx" />
+      <jump line="8" column="16" filename="$USER_HOME$/repos/crm-customer-fe/src/features/customers-id-page/DetailDefaultField/DetailDefaultField.tsx" />
+      <jump line="15" column="13" filename="$USER_HOME$/repos/crm-customer-fe/src/ui/DetailItemValue/DetailItemValue.tsx" />
+      <jump line="25" column="5" filename="$USER_HOME$/repos/crm-customer-fe/src/ui/DetailItemValue/DetailItemValue.tsx" />
+      <jump line="15" column="13" filename="$USER_HOME$/repos/crm-customer-fe/src/ui/DetailItemKey/DetailItemKey.tsx" />
+      <jump line="15" column="13" filename="$USER_HOME$/repos/crm-customer-fe/src/ui/DetailItem/DetailItem.tsx" />
+      <jump line="14" column="13" filename="$USER_HOME$/repos/crm-customer-fe/src/features/customers-id-page/UserProfileInfo/UserProfileInfo.tsx" />
+      <jump line="12" column="16" filename="$USER_HOME$/repos/crm-customer-fe/src/features/customers-id-page/DetailDefaultField/DetailDefaultField.tsx" />
+      <jump line="15" column="16" filename="$USER_HOME$/repos/crm-customer-fe/src/features/customers-id-page/UserProfileInfo/UserProfileInfo.tsx" />
+      <jump line="6" column="16" filename="$USER_HOME$/repos/crm-customer-fe/src/features/customers-id-page/CustomProfileList/CustomProfileList.tsx" />
+      <jump line="23" column="18" filename="$USER_HOME$/repos/crm-customer-fe/src/features/customers-id-page/DetailStringField/DetailStringField.tsx" />
+      <jump line="13" column="45" filename="$USER_HOME$/repos/crm-customer-fe/src/features/customers-id-page/DetailStringField/DetailStringField.tsx" />
+      <jump line="18" column="22" filename="$USER_HOME$/repos/crm-customer-fe/src/features/customers-id-page/DetailStringField/DetailStringField.tsx" />
+      <jump line="10" column="25" filename="$USER_HOME$/repos/crm-customer-fe/src/features/customers-id-page/DetailStringField/DetailStringField.tsx" />
+      <jump line="8" column="100" filename="$USER_HOME$/repos/crm-customer-fe/src/features/customers-id-page/DetailStringField/DetailStringField.tsx" />
+      <jump line="11" column="0" filename="$USER_HOME$/repos/crm-customer-fe/src/features/customers-id-page/DetailStringField/DetailStringField.tsx" />
+      <jump line="5" column="0" filename="$USER_HOME$/repos/crm-customer-fe/src/features/customers-id-page/DetailStringField/DetailStringField.tsx" />
+      <jump line="12" column="4" filename="$USER_HOME$/repos/crm-customer-fe/src/features/customers-id-page/DetailStringField/DetailStringField.tsx" />
+      <jump line="48" column="17" filename="$USER_HOME$/repos/crm-customer-fe/src/features/customers-id-page/DetailStringField/DetailStringField.tsx" />
+      <jump line="13" column="21" filename="$USER_HOME$/repos/crm-customer-fe/src/features/customers-id-page/CustomProfileList/CustomProfileList.tsx" />
+      <jump line="24" column="11" filename="$USER_HOME$/repos/crm-customer-fe/src/features/customers-id-page/DetailCheckboxField/DetailCheckboxField.tsx" />
+      <jump line="5" column="115" filename="$USER_HOME$/repos/crm-customer-fe/src/features/customers-id-page/DetailCheckboxField/DetailCheckboxField.tsx" />
+      <jump line="8" column="0" filename="$USER_HOME$/repos/crm-customer-fe/src/features/customers-id-page/DetailCheckboxField/DetailCheckboxField.tsx" />
+      <jump line="13" column="22" filename="$USER_HOME$/repos/crm-customer-fe/src/features/customers-id-page/DetailCheckboxField/DetailCheckboxField.tsx" />
+      <jump line="22" column="11" filename="$USER_HOME$/repos/crm-customer-fe/src/features/customers-id-page/DetailCheckboxField/DetailCheckboxField.tsx" />
+      <jump line="20" column="27" filename="$USER_HOME$/repos/crm-customer-fe/src/features/customers-id-page/CustomProfileList/CustomProfileList.tsx" />
+      <jump line="30" column="25" filename="$USER_HOME$/repos/crm-customer-fe/src/features/customers-id-page/CustomProfileList/CustomProfileList.tsx" />
+      <jump line="5" column="16" filename="$USER_HOME$/repos/crm-customer-fe/src/features/customers-id-page/DetailDefaultField/DetailDefaultField.tsx" />
+      <jump line="18" column="0" filename="$USER_HOME$/repos/crm-customer-fe/src/features/customers-id-page/DetailDefaultField/DetailDefaultField.tsx" />
+      <jump line="0" column="45" filename="$USER_HOME$/repos/crm-customer-fe/src/features/customers-id-page/DetailStringField/DetailStringField.css.ts" />
+      <jump line="6" column="0" filename="$USER_HOME$/repos/crm-customer-fe/src/features/customers-id-page/UserProfileInfo/UserProfileInfo.css.ts" />
+    </project>
+    <project id="$USER_HOME$/repos/crm-customer-bff">
+      <jump line="30" column="50" filename="$USER_HOME$/repos/crm-customer-bff/src/services/patchCustomerEditDetails.ts" />
+      <jump line="4" column="18" filename="$USER_HOME$/repos/crm-customer-bff/src/services/patchCustomerEditDetails.ts" />
+      <jump line="120" column="0" filename="$USER_HOME$/repos/crm-customer-bff/src/types/index.ts" />
+      <jump line="141" column="3" filename="$USER_HOME$/repos/crm-customer-bff/src/types/index.ts" />
+      <jump line="78" column="0" filename="$USER_HOME$/repos/crm-customer-bff/src/types/index.ts" />
+      <jump line="19" column="12" filename="$USER_HOME$/repos/crm-customer-bff/src/services/getCustomerEditDetails.ts" />
+      <jump line="77" column="2" filename="$USER_HOME$/repos/crm-customer-bff/src/types/index.ts" />
+      <jump line="79" column="0" filename="$USER_HOME$/repos/crm-customer-bff/src/types/index.ts" />
+      <jump line="144" column="15" filename="$USER_HOME$/repos/crm-customer-bff/src/types/index.ts" />
+      <jump line="17" column="18" filename="$USER_HOME$/repos/crm-customer-bff/src/services/getCustomerEditDetails.ts" />
+      <jump line="18" column="1" filename="$USER_HOME$/repos/crm-customer-bff/src/services/getCustomerEditDetails.ts" />
+      <jump line="14" column="67" filename="$USER_HOME$/repos/crm-customer-bff/src/services/patchCustomerEditDetails.ts" />
+      <jump line="21" column="24" filename="$USER_HOME$/repos/crm-customer-bff/src/services/patchCustomerEditDetails.ts" />
+      <jump line="19" column="2" filename="$USER_HOME$/repos/crm-customer-bff/src/services/customerDetails.ts" />
+      <jump line="28" column="31" filename="$USER_HOME$/repos/crm-customer-bff/src/services/patchCustomerEditDetails.ts" />
+      <jump line="13" column="14" filename="$USER_HOME$/repos/crm-customer-bff/src/services/patchCustomerEditDetails.ts" />
+      <jump line="22" column="30" filename="$USER_HOME$/repos/crm-customer-bff/src/services/patchCustomerEditDetails.ts" />
+      <jump line="22" column="19" filename="$USER_HOME$/repos/crm-customer-bff/src/services/signUp.ts" />
+      <jump line="20" column="0" filename="$USER_HOME$/repos/crm-customer-bff/src/services/patchCustomerEditDetails.ts" />
+      <jump line="5" column="29" filename="$USER_HOME$/repos/crm-customer-bff/src/services/patchCustomerEditDetails.ts" />
+      <jump line="7" column="0" filename="$USER_HOME$/repos/crm-customer-bff/src/services/patchCustomerEditDetails.ts" />
+      <jump line="10" column="48" filename="$USER_HOME$/repos/crm-customer-bff/src/services/patchCustomerEditDetails.ts" />
+      <jump line="12" column="53" filename="$USER_HOME$/repos/crm-customer-bff/src/services/patchCustomerEditDetails.ts" />
+      <jump line="16" column="42" filename="$USER_HOME$/repos/crm-customer-bff/src/services/patchCustomerEditDetails.ts" />
+      <jump line="25" column="2" filename="$USER_HOME$/repos/crm-customer-bff/src/services/patchCustomerEditDetails.ts" />
+      <jump line="6" column="0" filename="$USER_HOME$/repos/crm-customer-bff/src/services/patchCustomerEditDetails.ts" />
+      <jump line="145" column="20" filename="$USER_HOME$/repos/crm-customer-bff/src/types/index.ts" />
+      <jump line="22" column="25" filename="$USER_HOME$/repos/crm-customer-bff/src/services/getCustomerEditDetails.ts" />
+      <jump line="19" column="32" filename="$USER_HOME$/repos/crm-customer-bff/src/services/patchCustomerEditDetails.ts" />
+      <jump line="3" column="0" filename="$USER_HOME$/repos/crm-customer-bff/src/routes/customers.ts" />
+      <jump line="2" column="59" filename="$USER_HOME$/repos/crm-customer-bff/src/routes/customers.ts" />
+      <jump line="63" column="17" filename="$USER_HOME$/repos/crm-customer-bff/src/services/getCustomerEditDetails.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/repos/crm-customer-bff/src/routes/customers.ts" />
+      <jump line="6" column="148" filename="$USER_HOME$/repos/crm-customer-bff/src/routes/customers.ts" />
+      <jump line="114" column="18" filename="$USER_HOME$/repos/crm-customer-bff/src/types/index.ts" />
+      <jump line="7" column="0" filename="$USER_HOME$/repos/crm-customer-bff/src/routes/customers.ts" />
+      <jump line="9" column="0" filename="$USER_HOME$/repos/crm-customer-bff/src/services/index.ts" />
+      <jump line="165" column="8" filename="$USER_HOME$/repos/crm-customer-bff/src/routes/identity/fields.ts" />
+      <jump line="76" column="12" filename="$USER_HOME$/repos/crm-customer-bff/src/routes/identity/applications.ts" />
+      <jump line="23" column="24" filename="$USER_HOME$/repos/crm-customer-bff/src/services/signUp.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/repos/crm-customer-bff/src/services/signOut.ts" />
+      <jump line="9" column="13" filename="$USER_HOME$/repos/crm-customer-bff/src/services/patchCustomerEditDetails.ts" />
+      <jump line="16" column="0" filename="$USER_HOME$/repos/crm-customer-bff/.env.local" />
+      <jump line="13" column="28" filename="$USER_HOME$/repos/crm-customer-bff/.env.local" />
+      <jump line="14" column="5" filename="$USER_HOME$/repos/crm-customer-bff/src/lib/fetchWithHandling.ts" />
+      <jump line="18" column="19" filename="$USER_HOME$/repos/crm-customer-bff/src/services/patchCustomerEditDetails.ts" />
+      <jump line="36" column="18" filename="$USER_HOME$/repos/crm-customer-bff/src/services/getCustomerEditDetails.ts" />
+      <jump line="76" column="51" filename="$USER_HOME$/repos/crm-customer-bff/src/services/getCustomerEditDetails.ts" />
+      <jump line="71" column="39" filename="$USER_HOME$/repos/crm-customer-bff/src/services/getCustomerEditDetails.ts" />
+      <jump line="66" column="29" filename="$USER_HOME$/repos/crm-customer-bff/src/services/getCustomerEditDetails.ts" />
+      <jump line="37" column="2" filename="$USER_HOME$/repos/crm-customer-bff/src/services/getCustomerEditDetails.ts" />
+      <jump line="52" column="95" filename="$USER_HOME$/repos/crm-customer-bff/src/lib/convertSomeNaming.ts" />
+      <jump line="88" column="0" filename="$USER_HOME$/repos/crm-customer-bff/src/lib/convertSomeNaming.ts" />
+      <jump line="84" column="7" filename="$USER_HOME$/repos/crm-customer-bff/src/lib/convertSomeNaming.ts" />
+      <jump line="9" column="27" filename="$USER_HOME$/repos/crm-customer-bff/src/lib/fetchWithHandling.ts" />
+      <jump line="17" column="54" filename="$USER_HOME$/repos/crm-customer-bff/src/lib/fetchWithHandling.ts" />
+      <jump line="57" column="1" filename="$USER_HOME$/repos/crm-customer-bff/src/services/getCustomerEditDetails.ts" />
+      <jump line="2" column="15" filename="$USER_HOME$/repos/crm-customer-bff/.env.local" />
+      <jump line="69" column="52" filename="$USER_HOME$/repos/crm-customer-bff/src/services/getCustomerEditDetails.ts" />
+      <jump line="23" column="17" filename="$USER_HOME$/repos/crm-customer-bff/src/services/patchCustomerEditDetails.ts" />
+      <jump line="15" column="0" filename="$USER_HOME$/repos/crm-customer-bff/src/services/getCustomerEditDetails.ts" />
+      <jump line="0" column="7" filename="$USER_HOME$/repos/crm-customer-bff/src/services/getCustomerEditDetails.ts" />
+      <jump line="13" column="1" filename="$USER_HOME$/repos/crm-customer-bff/src/services/getCustomerEditDetails.ts" />
+      <jump line="24" column="0" filename="$USER_HOME$/repos/crm-customer-bff/src/services/getCustomerEditDetails.ts" />
+      <jump line="28" column="18" filename="$USER_HOME$/repos/crm-customer-bff/src/services/getCustomerEditDetails.ts" />
+      <jump line="56" column="5" filename="$USER_HOME$/repos/crm-customer-bff/src/services/getCustomerEditDetails.ts" />
+      <jump line="53" column="27" filename="$USER_HOME$/repos/crm-customer-bff/src/services/getCustomerEditDetails.ts" />
+      <jump line="59" column="50" filename="$USER_HOME$/repos/crm-customer-bff/src/services/getCustomerEditDetails.ts" />
+      <jump line="54" column="39" filename="$USER_HOME$/repos/crm-customer-bff/src/services/getCustomerEditDetails.ts" />
+      <jump line="31" column="31" filename="$USER_HOME$/repos/crm-customer-bff/src/services/getCustomerEditDetails.ts" />
+      <jump line="30" column="69" filename="$USER_HOME$/repos/crm-customer-bff/src/services/getCustomerEditDetails.ts" />
+      <jump line="12" column="12" filename="$USER_HOME$/repos/crm-customer-bff/src/services/getCustomerEditDetails.ts" />
+      <jump line="35" column="21" filename="$USER_HOME$/repos/crm-customer-bff/src/services/getCustomerEditDetails.ts" />
+      <jump line="42" column="25" filename="$USER_HOME$/repos/crm-customer-bff/src/services/getCustomerEditDetails.ts" />
+      <jump line="55" column="0" filename="$USER_HOME$/repos/crm-customer-bff/src/services/getCustomerEditDetails.ts" />
+      <jump line="47" column="56" filename="$USER_HOME$/repos/crm-customer-bff/src/services/getCustomerEditDetails.ts" />
+      <jump line="50" column="4" filename="$USER_HOME$/repos/crm-customer-bff/src/services/getCustomerEditDetails.ts" />
+      <jump line="52" column="0" filename="$USER_HOME$/repos/crm-customer-bff/src/services/getCustomerEditDetails.ts" />
+      <jump line="48" column="35" filename="$USER_HOME$/repos/crm-customer-bff/src/services/getCustomerEditDetails.ts" />
+      <jump line="46" column="85" filename="$USER_HOME$/repos/crm-customer-bff/src/services/getCustomerEditDetails.ts" />
+      <jump line="49" column="45" filename="$USER_HOME$/repos/crm-customer-bff/src/services/getCustomerEditDetails.ts" />
+      <jump line="33" column="0" filename="$USER_HOME$/repos/crm-customer-bff/src/services/getCustomerEditDetails.ts" />
+      <jump line="34" column="18" filename="$USER_HOME$/repos/crm-customer-bff/src/services/getCustomerEditDetails.ts" />
+      <jump line="32" column="5" filename="$USER_HOME$/repos/crm-customer-bff/src/services/getCustomerEditDetails.ts" />
+      <jump line="38" column="5" filename="$USER_HOME$/repos/crm-customer-bff/src/services/getCustomerEditDetails.ts" />
+      <jump line="51" column="5" filename="$USER_HOME$/repos/crm-customer-bff/src/services/getCustomerEditDetails.ts" />
+      <jump line="44" column="0" filename="$USER_HOME$/repos/crm-customer-bff/src/services/getCustomerEditDetails.ts" />
+      <jump line="89" column="2" filename="$USER_HOME$/repos/crm-customer-bff/src/lib/convertSomeNaming.ts" />
+      <jump line="40" column="23" filename="$USER_HOME$/repos/crm-customer-bff/src/services/getCustomerEditDetails.ts" />
+      <jump line="41" column="24" filename="$USER_HOME$/repos/crm-customer-bff/src/services/getCustomerEditDetails.ts" />
+      <jump line="11" column="13" filename="$USER_HOME$/repos/crm-customer-bff/src/services/customerDetails.ts" />
+      <jump line="22" column="2" filename="$USER_HOME$/repos/crm-customer-bff/src/services/customerDetails.ts" />
+      <jump line="16" column="4" filename="$USER_HOME$/repos/crm-customer-bff/src/services/customerDetails.ts" />
+      <jump line="43" column="3" filename="$USER_HOME$/repos/crm-customer-bff/src/services/getCustomerEditDetails.ts" />
+      <jump line="27" column="0" filename="$USER_HOME$/repos/crm-customer-bff/src/services/getCustomerEditDetails.ts" />
+      <jump line="45" column="35" filename="$USER_HOME$/repos/crm-customer-bff/src/services/getCustomerEditDetails.ts" />
+      <jump line="20" column="62" filename="$USER_HOME$/repos/crm-customer-bff/src/services/customerDetails.ts" />
+      <jump line="18" column="21" filename="$USER_HOME$/repos/crm-customer-bff/src/services/customerDetails.ts" />
+      <jump line="13" column="2" filename="$USER_HOME$/repos/crm-customer-bff/src/middleware/validateToken.ts" />
+      <jump line="10" column="4" filename="$USER_HOME$/repos/crm-customer-bff/src/middleware/validateToken.ts" />
+    </project>
+    <project id="$USER_HOME$/repos/qiita-articles-backup">
+      <jump line="0" column="0" filename="$USER_HOME$/repos/qiita-articles-backup/index.html" />
+      <jump line="44" column="0" filename="$USER_HOME$/repos/qiita-articles-backup/.gitignore" />
+      <jump line="36" column="0" filename="$USER_HOME$/repos/qiita-articles-backup/.gitignore" />
+      <jump line="0" column="19" filename="$USER_HOME$/repos/qiita-articles-backup/.gitignore" />
+      <jump line="3" column="5" filename="$USER_HOME$/repos/qiita-articles-backup/.gitignore" />
+      <jump line="129" column="0" filename="$USER_HOME$/repos/qiita-articles-backup/初心者向け！Vue.jsの開発環境の構築.md" />
+      <jump line="0" column="20" filename="$USER_HOME$/repos/qiita-articles-backup/初心者向け！Vue.jsの開発環境の構築.md" />
+      <jump line="6" column="6" filename="$USER_HOME$/repos/qiita-articles-backup/初心者向け！Vue.jsの開発環境の構築.md" />
+    </project>
+    <project id="$USER_HOME$/repos/workspace-settings">
+      <jump line="0" column="0" filename="$USER_HOME$/repos/workspace-settings/powershell/powershell_tutorial.md" />
+      <jump line="8" column="33" filename="$USER_HOME$/repos/workspace-settings/powershell/powershell_tutorial.md" />
+      <jump line="0" column="0" filename="$USER_HOME$/repos/workspace-settings/powershell/PowerShell color.txt" />
+      <jump line="3" column="5" filename="$USER_HOME$/repos/workspace-settings/.gitignore" />
+      <jump line="4" column="0" filename="$USER_HOME$/repos/workspace-settings/.gitignore" />
+      <jump line="0" column="0" filename="$USER_HOME$/repos/workspace-settings/powershell/profile.ps1" />
+    </project>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <localmarks>
+      <file name="$USER_HOME$/repos/crm-customer-fe/src/ui/DetailItem/index.ts" timestamp="1705051586745">
+        <mark key="&quot;" line="0" column="0" />
+      </file>
+      <file name="/AIAssistantInput-30c6b1fc-498d-4982-a87a-230c8b82670d" timestamp="1705052609935">
+        <mark key="&quot;" line="0" column="33" />
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/repos/crm-customer-fe/src/features/customers-id-page/ReservedProfileList/ReservedProfileList.tsx" timestamp="1705051833116">
+        <mark key="&quot;" line="27" column="23" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="30" column="5" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/repos/crm-customer-fe/src/ui/DetailItem/DetailItem.tsx" timestamp="1705051589316">
+        <mark key="&quot;" line="5" column="13" />
+        <mark key="[" line="8" column="8" />
+      </file>
+      <file name="/AIAssistantInput-347f17e4-3908-4614-892e-5c04f84bfd21" timestamp="1705052609931">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/repos/crm-customer-fe/src/ui/DetailItem/DetailItem.css.ts" timestamp="1705051586058">
+        <mark key="&quot;" line="7" column="26" />
+      </file>
+      <file name="/AIAssistantInput-da7740b3-121f-4ab6-aaf7-69795890d045" timestamp="1705052412100">
+        <mark key="&quot;" line="14" column="32" />
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/repos/crm-customer-fe/src/ui/DetailItemValue/DetailItemValue.css.ts" timestamp="1705051585242">
+        <mark key="&quot;" line="22" column="0" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
+      <file name="$USER_HOME$/repos/crm-customer-fe/src/features/customers-id-page/Composed/Composed.tsx" timestamp="1705051794638">
+        <mark key="&quot;" line="25" column="15" />
+      </file>
+      <file name="$USER_HOME$/repos/crm-customer-fe/src/ui/DetailItemKey/DetailItemKey.css.ts" timestamp="1705051584606">
+        <mark key="&quot;" line="17" column="2" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
+      <file name="/AIAssistantInput-40ab039f-39f2-428a-abfb-bd378f776ce3" timestamp="1705052407242">
+        <mark key="&quot;" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/repos/crm-customer-fe/src/features/customers-id-page/DetailDefaultField/DetailDefaultField.tsx" timestamp="1705051589790">
+        <mark key="&quot;" line="7" column="10" />
+        <mark key="[" line="12" column="10" />
+        <mark key="]" line="8" column="20" />
+        <mark key="." line="8" column="20" />
+      </file>
+      <file name="$USER_HOME$/repos/crm-customer-fe/src/app/(authenticated)/customers/[id]/page.tsx" timestamp="1705051717443">
+        <mark key="&quot;" line="9" column="12" />
+      </file>
+      <file name="$USER_HOME$/repos/crm-customer-fe/src/features/customers-id-page/UserProfileInfo/UserProfileInfo.tsx" timestamp="1705051623064">
+        <mark key="&quot;" line="19" column="14" />
+        <mark key="[" line="7" column="33" />
+        <mark key="]" line="19" column="15" />
+        <mark key="." line="19" column="14" />
+        <mark key="^" line="19" column="15" />
+      </file>
+      <file name="$USER_HOME$/repos/crm-customer-fe/src/features/customers-id-page/DetailStringField/DetailStringField.tsx" timestamp="1705051722053">
+        <mark key="&quot;" line="33" column="10" />
+        <mark key="[" line="9" column="35" />
+        <mark key="]" line="40" column="38" />
+        <mark key="." line="40" column="37" />
+        <mark key="^" line="40" column="38" />
+      </file>
+      <file name="$USER_HOME$/repos/crm-customer-fe/src/features/customers-id-page/CustomerContainer/CustomerContainer.tsx" timestamp="1705051829307">
+        <mark key="&quot;" line="54" column="15" />
+        <mark key="[" line="52" column="25" />
+        <mark key="]" line="52" column="22" />
+        <mark key="." line="52" column="22" />
+      </file>
+      <file name="/AIAssistantInput-76845fa3-4451-4d9a-aaa6-e325dc6f7183" timestamp="1705052598773">
+        <mark key="&quot;" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/repos/crm-customer-fe/src/features/customers-id-page/DetailCheckboxField/DetailCheckboxField.tsx" timestamp="1705051797612">
+        <mark key="&quot;" line="18" column="17" />
+        <mark key="[" line="5" column="38" />
+        <mark key="]" line="26" column="24" />
+        <mark key="." line="26" column="23" />
+        <mark key="^" line="26" column="24" />
+      </file>
+    </localmarks>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="&quot;" type="LINE_WISE">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="-" type="CHARACTER_WISE">
+        <text encoding="base64">KQ==</text>
+      </register>
+      <register name="." type="CHARACTER_WISE">
+        <text encoding="base64" />
+      </register>
+      <register name="/" type="CHARACTER_WISE">
+        <text encoding="base64">XDxpbXBvcnRcPg==</text>
+      </register>
+      <register name="0" type="LINE_WISE">
+        <text encoding="base64">ZXhwb3J0ICogZnJvbSAnLi9Db250YWluZXInOwo=</text>
+      </register>
+      <register name="1" type="LINE_WISE">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="LINE_WISE">
+        <text encoding="base64">LkRTX1N0b3JlCg==</text>
+      </register>
+      <register name="3" type="LINE_WISE">
+        <text encoding="base64">IyBuZXh0LmpzCi5uZXh0Cm5leHQtZW52LmQudHMKCiMgc3Rvcnlib29rCnN0b3J5Ym9vay1zdGF0aWMKCiMgcHJvZHVjdGlvbgpidWlsZAoKIyBsb2NhbCBlbnYgZmlsZXMKLmVudioubG9jYWwKCiMgdHlwZXNjcmlwdAoqLnRzYnVpbGRpbmZvCgojIHZlcmNlbAoudmVyY2VsCgojIGRlYnVnCm5wbS1kZWJ1Zy5sb2cqCgojIGRlcGVuZGVuY2llcwpub2RlX21vZHVsZXMKCiMgbWlzYwo=</text>
+      </register>
+      <register name="4" type="LINE_WISE">
+        <text encoding="base64">Ki5wZW0KCiMgSURFIC0gVlNDb2RlCi52c2NvZGUvKgohLnZzY29kZS9zZXR0aW5ncy5qc29uCiEudnNjb2RlL3Rhc2tzLmpzb24KIS52c2NvZGUvbGF1bmNoLmpzb24KIS52c2NvZGUvZXh0ZW5zaW9ucy5qc29uCgo=</text>
+      </register>
+      <register name="5" type="LINE_WISE">
+        <text encoding="base64">IyBJREUgLSBPdGhlcgo=</text>
+      </register>
+      <register name="6" type="LINE_WISE">
+        <text encoding="base64">LnByb2plY3QKLmNsYXNzcGF0aAouYzkvCioubGF1bmNoCi5zZXR0aW5ncy8KKi5zdWJsaW1lLXdvcmtzcGFjZQo=</text>
+      </register>
+      <register name="7" type="LINE_WISE">
+        <text encoding="base64">ICAgIHBhZGRpbmc6ICcxNnB4JywK</text>
+      </register>
+      <register name="8" type="LINE_WISE">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="LINE_WISE">
+        <text encoding="base64">ICAgIHNlbGVjdG9yczogewogICAgICAnJjpmaXJzdC1jaGlsZCc6IHsKICAgICAgICBib3JkZXJUb3A6ICdub25lJywKICAgICAgfSwKICAgIH0sCg==</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-search encoding="base64">XDxpbXBvcnRcPg==</last-search>
+      <last-pattern encoding="base64">XDxpbXBvcnRcPg==</last-pattern>
+      <last-dir encoding="base64">MQ==</last-dir>
+      <show-last encoding="base64">ZmFsc2U=</show-last>
+    </search>
+  </component>
+</application>

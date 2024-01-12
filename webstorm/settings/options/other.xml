@@ -1,0 +1,116 @@
+<application>
+  <component name="AILicenseTypeStorage">
+    <option name="licenseId" value="7GJZ3J5W9L" />
+    <option name="selectedType" value="PRO" />
+  </component>
+  <component name="ActionHistoryManager">
+    <ids>
+      <option value="ActivateAIAssistantToolWindow" />
+    </ids>
+  </component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontSize" value="13.0" />
+    <option name="presentationModeIdeScale" value="1.75" />
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "AFTER.DISTRACTION.MODE.ARE_GUTTER_ICONS_SHOWN": "false",
+    "AFTER.DISTRACTION.MODE.ARE_LINE_NUMBERS_SHOWN": "true",
+    "AFTER.DISTRACTION.MODE.EDITOR_TAB_PLACEMENT": "0",
+    "AFTER.DISTRACTION.MODE.HIDE_TOOL_STRIPES": "true",
+    "AFTER.DISTRACTION.MODE.IS_FOLDING_OUTLINE_SHOWN": "false",
+    "AFTER.DISTRACTION.MODE.IS_FOLDING_OUTLINE_SHOWN_ONLY_ON_HOVER": "false",
+    "AFTER.DISTRACTION.MODE.IS_INDENT_GUIDES_SHOWN": "true",
+    "AFTER.DISTRACTION.MODE.IS_RIGHT_MARGIN_SHOWN": "false",
+    "AFTER.DISTRACTION.MODE.IS_WHITESPACES_SHOWN": "true",
+    "AFTER.DISTRACTION.MODE.SHOW_BREADCRUMBS": "false",
+    "AFTER.DISTRACTION.MODE.SHOW_MAIN_TOOLBAR": "false",
+    "AFTER.DISTRACTION.MODE.SHOW_METHOD_SEPARATORS": "true",
+    "AFTER.DISTRACTION.MODE.SHOW_NAVIGATION_BAR": "true",
+    "AFTER.DISTRACTION.MODE.SHOW_NEW_MAIN_TOOLBAR": "false",
+    "AFTER.DISTRACTION.MODE.SHOW_STATUS_BAR": "true",
+    "BEFORE.DISTRACTION.MODE.ARE_GUTTER_ICONS_SHOWN": "true",
+    "BEFORE.DISTRACTION.MODE.ARE_LINE_NUMBERS_SHOWN": "true",
+    "BEFORE.DISTRACTION.MODE.EDITOR_TAB_PLACEMENT": "1",
+    "BEFORE.DISTRACTION.MODE.HIDE_TOOL_STRIPES": "true",
+    "BEFORE.DISTRACTION.MODE.IS_FOLDING_OUTLINE_SHOWN": "true",
+    "BEFORE.DISTRACTION.MODE.IS_FOLDING_OUTLINE_SHOWN_ONLY_ON_HOVER": "true",
+    "BEFORE.DISTRACTION.MODE.IS_INDENT_GUIDES_SHOWN": "true",
+    "BEFORE.DISTRACTION.MODE.IS_RIGHT_MARGIN_SHOWN": "false",
+    "BEFORE.DISTRACTION.MODE.IS_WHITESPACES_SHOWN": "true",
+    "BEFORE.DISTRACTION.MODE.SHOW_BREADCRUMBS": "false",
+    "BEFORE.DISTRACTION.MODE.SHOW_MAIN_TOOLBAR": "false",
+    "BEFORE.DISTRACTION.MODE.SHOW_METHOD_SEPARATORS": "true",
+    "BEFORE.DISTRACTION.MODE.SHOW_NAVIGATION_BAR": "true",
+    "BEFORE.DISTRACTION.MODE.SHOW_NEW_MAIN_TOOLBAR": "false",
+    "BEFORE.DISTRACTION.MODE.SHOW_STATUS_BAR": "true",
+    "CUSTOMIZE_ACTIONS": "コミット\nプッシュ\ngit\nAi assistant\ncommit",
+    "ChangesViewManager.COMMIT_SPLITTER_PROPORTION.HORIZONTAL": "0.45705196",
+    "ColorChooser.RecentColors": "60-60-60-255,,,171-44-44-255,,,251-241-199-255,,,178-132-16-255,,,255-134-71-255,,,255-249-238-255,,,255-255-240-255,,,217-193-171-255,,,166-123-87-255,,,236-185-167-255,,,255-141-75-255,,,255-255-255-255,,,252-252-252-255,,,189-24-24-255",
+    "CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2": "0.6016151",
+    "DISTRACTION.MODE.ENTER.VALUE": "false",
+    "Endpoints.split": "0.65",
+    "FindSplitterProportion": "0.3760282",
+    "GeneralSettings.initiallyConfigured": "true",
+    "InstalledPluginsSearchHistory": "/tag:Purchased\nchatgpt\nchatgp\nchatg\nchat",
+    "LAST_CALCULATED_COLOR_INDEX_KEY": "4",
+    "LAST_EXTRACTOR_SCRIPTS_CLEANUP_VERSION/data/aggregators": "WS-233.11799.229",
+    "LayoutCode.codeCleanup": "true",
+    "LayoutCode.optimizeImports": "true",
+    "LayoutCode.processChangedText": "false",
+    "LayoutCode.rearrangeEntriesTypeScript": "true",
+    "LayoutCode.rearrangeEntriesTypeScript JSX": "true",
+    "MarketplacePluginsSearchHistory": "/tag:Keymap\nchatgpt\n/tag:Atom\n/tag:Ato\n/tag:Theme /sortBy:downloads",
+    "MemberChooser.copyJavadoc": "false",
+    "MemberChooser.showClasses": "true",
+    "SettingsSearchHistory": "分割\nコミット\nサイド\nvim\nパン",
+    "ai.assistant.toolwindow.shown.at.start": "true",
+    "ask.about.ctrl.y.shortcut.v2": "true",
+    "bundled.plugins.list.saved.version": "WS-233.13135.92",
+    "enter_selection_count": "2",
+    "evlsprt3.233": "4",
+    "experimental.ui.on.first.startup": "true",
+    "experimental.ui.used.version": "233.13135.92",
+    "file.gist.reindex.count": "211",
+    "fileTypeChangedCounter": "1",
+    "fontSizeToResetConsole": "16.0",
+    "fontSizeToResetEditor": "16.0",
+    "git.stage.action.invoked": "true",
+    "got.it.tooltip.reader.mode.got.it": "1",
+    "got.it.tooltip.speed.search.shown": "1",
+    "got.it.tooltip.terminal.smart_command_execution": "1",
+    "ide.memory.adjusted": "true",
+    "ideavim.statistics.timestamp": "1705025301982",
+    "js.live.template.contexts.migrated": "true",
+    "js.rename.search.for.text.occurrences": "false",
+    "js.rename.search.in.comments": "false",
+    "js.var.names.completion": "true",
+    "js.var.names.completion.kind": "TYPES_FOR_PARAMS",
+    "last_opened_file_path": "/Users/kunitake/crm-customer-fe",
+    "licl.day": "19734",
+    "licl.ticks": "9",
+    "migrated.non.roamable.values.from.general.settings": "true",
+    "previousColorScheme": "_@user_Gruvbox Dark Soft",
+    "registry.to.advanced.settings.migration.build": "WS-233.13135.92",
+    "selected.color.option.type": "EDITOR_GUTTER_BACKGROUND",
+    "settings.code.style.selected.tab.HTML": "その他",
+    "settings.code.style.selected.tab.JavaScript": "空白行",
+    "settings.code.style.selected.tab.TypeScript": "空白行",
+    "tab_selection_count": "3",
+    "ts.lib.d.ts.version": "5.2.2",
+    "vcs.history.diff.splitter.proportion": "0.6502924",
+    "vcs.log.changes.splitter.proportion": "0.6961259",
+    "vcs.log.details.splitter.proportion": "0.5727003"
+  },
+  "keyToStringList": {
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "com.intellij.docker.dockerFile.DockerFileTypeDetector",
+      "com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$JavaScriptFileTypeDetector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$TypeScriptFileTypeDetector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+</application>

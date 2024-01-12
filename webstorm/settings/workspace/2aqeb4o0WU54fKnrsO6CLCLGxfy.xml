@@ -1,0 +1,123 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="workspace-settings" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="GitIgnore file">
+      <summary usageCount="1" lastUsed="1705051233326" />
+    </fileType>
+    <fileType name="Markdown">
+      <summary usageCount="1" lastUsed="1705051100809" />
+    </fileType>
+    <fileType name="PLAIN_TEXT">
+      <summary usageCount="1" lastUsed="1705051114176" />
+    </fileType>
+    <fileType name="textmate">
+      <summary usageCount="1" lastUsed="1705051110149" />
+    </fileType>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/.gitignore" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="GitIgnore">
+      <summary usageCount="1" lastUsage="1705051233326" />
+    </language>
+    <language id="Markdown">
+      <summary usageCount="1" lastUsage="1705051100809" />
+    </language>
+    <language id="TEXT">
+      <summary usageCount="1" lastUsage="1705051114176" />
+    </language>
+    <language id="textmate">
+      <summary usageCount="1" lastUsage="1705051110149" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="ローカル" currentWorkingDirectory="$PROJECT_DIR$">
+        <shellCommand>
+          <arg value="/bin/zsh" />
+          <arg value="--login" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="926000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info id="Pull Requests" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.33035713" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.3305" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <unified_weights bottom="0.3305" left="0.33035713" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+      <value>Terminal</value>
+    </recentWindows>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/powershell/powershell_tutorial.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SHOW_EDITOR_AND_PREVIEW" is_vertical_split="false">
+          <first_editor relative-caret-position="242">
+            <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/powershell/PowerShell color.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/powershell/profile.ps1">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-404" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

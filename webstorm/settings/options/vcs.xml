@@ -1,0 +1,25 @@
+<application>
+  <component name="HostVcsAppSettings">
+    <option name="createChangeListsForGuestChanges" value="false" />
+  </component>
+  <component name="Vcs.Log.App.Settings">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Subject" />
+        <option value="Default.Author" />
+        <option value="Space.CommitStatus" />
+      </list>
+    </option>
+    <option name="COLUMN_ID_VISIBILITY">
+      <map>
+        <entry key="Table.Default.Author.ColumnIdVisibility" value="true" />
+        <entry key="Table.Default.Date.ColumnIdVisibility" value="false" />
+        <entry key="Table.Git.CommitSignature.ColumnIdVisibility" value="false" />
+        <entry key="Table.Space.CommitStatus.ColumnIdVisibility" value="true" />
+      </map>
+    </option>
+    <option name="COMPACT_REFERENCES_VIEW" value="false" />
+    <option name="DIFF_PREVIEW_VERTICAL_SPLIT" value="false" />
+  </component>
+</application>

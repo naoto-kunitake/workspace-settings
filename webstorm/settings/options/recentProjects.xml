@@ -1,0 +1,105 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/crm-customer-fe">
+          <value>
+            <RecentProjectMetaInfo frameTitle="crm-customer-fe" projectWorkspaceId="2ZQACTQ5labvCZDnDxLyQgzSSz2">
+              <option name="activationTimestamp" value="1703224346904" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-233.11799.229" />
+              <option name="buildTimestamp" value="1701441660000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="8" />
+              </option>
+              <frame x="0" y="0" width="1920" height="1080" extendedState="6" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1702967121557" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/crm-customer-bff">
+          <value>
+            <RecentProjectMetaInfo displayName="crm-customer-bff, crm-customer-fe" frameTitle="crm-customer-bff – customerEdit.ts [crm-customer-bff]" projectWorkspaceId="2ZQCJpseedOh4pqqVR4vLqJh7vk">
+              <option name="activationTimestamp" value="1703224584204" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-233.11799.229" />
+              <option name="buildTimestamp" value="1701441660000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="0" />
+              </option>
+              <frame x="0" y="0" width="1920" height="1080" extendedState="6" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1702967121558" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/repos/crm-customer-fe">
+          <value>
+            <RecentProjectMetaInfo frameTitle="crm-customer-fe – EditSplitField.tsx" opened="true" projectWorkspaceId="2ZswOkNrGxEl1I7iQ2Na3jzVxca">
+              <option name="activationTimestamp" value="1705052596027" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-233.13135.92" />
+              <option name="buildTimestamp" value="1702973640000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="8" />
+              </option>
+              <frame x="0" y="0" width="1920" height="1080" extendedState="6" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1703726440618" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/repos/crm-customer-bff">
+          <value>
+            <RecentProjectMetaInfo frameTitle="crm-customer-bff – getCustomerEditDetails.ts" opened="true" projectWorkspaceId="2ZsxUoAqUt4ipsiV7MxkoW971qY">
+              <option name="activationTimestamp" value="1705051422754" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-233.13135.92" />
+              <option name="buildTimestamp" value="1702973640000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="0" />
+              </option>
+              <frame x="0" y="0" width="1920" height="1080" extendedState="6" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1703730580395" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/repos/qiita-articles-backup">
+          <value>
+            <RecentProjectMetaInfo frameTitle="qiita-articles-backup" projectWorkspaceId="2aqbCO6UFQYQ9yCTViXmmimpo43">
+              <option name="activationTimestamp" value="1705050100546" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-233.13135.92" />
+              <option name="buildTimestamp" value="1702973640000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="3" />
+              </option>
+              <frame x="283" y="26" width="1400" height="1000" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1705048927305" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/repos/workspace-settings">
+          <value>
+            <RecentProjectMetaInfo frameTitle="workspace-settings" opened="true" projectWorkspaceId="2aqhm07nz7aRwAPar5IoQfRnz0A">
+              <option name="activationTimestamp" value="1705052549512" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-233.13135.92" />
+              <option name="buildTimestamp" value="1702973640000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="4" />
+              </option>
+              <frame x="260" y="40" width="1400" height="1000" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1705052171607" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/repos/crm-customer-fe" />
+  </component>
+</application>
