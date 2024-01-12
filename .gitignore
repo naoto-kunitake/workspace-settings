@@ -1,0 +1,6 @@
+.idea/
+.DS_Store
+node_modules/
+*.log
+
+webstorm/settings/plugins/space/lib/space.jar
